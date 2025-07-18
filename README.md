@@ -11,7 +11,7 @@
 <div align="center">
   
 # 💫 About Me:
-🔭 I’m currently working on the SBI User Portal<br><br>🌱 I’m currently learning how to program a full-stack AI Agent<br><br>⚡ Fun fact: I like drinking tea and penguins
+🔭 I’m currently working on the SBI User Portal<br><br>🌱 I’m currently learning how to program a full-stack AI Agent<br><br>⚡ Fun fact: I like penguins and drinking tea
   
 </div>
 
