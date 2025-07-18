@@ -11,6 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=NoYume&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NoYume&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoYume&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=NoYume&icon=2&color=6)](https://visitcount.itsvg.in)
