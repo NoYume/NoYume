@@ -32,10 +32,13 @@
     <td valign="middle">
       <img src="https://github.com/NoYume/NoYume/blob/112c90d68c0caab4373bba489a10b94ed56a79fb/media/penguin.gif" />
     </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=NoYume&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=NoYume&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true"/>
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoYume&theme=tokyonight" alt="mystreak"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=NoYume&theme=city_lights&hide_border=true"/>
     </td>
   </tr>
 </table>
+
+
+
