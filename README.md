@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NoYume/NoYume/blob/7228043acb190c9da0dfce0830c279c353eef136/media/penguin.gif" />
+  <img src="https://github.com/NoYume/NoYume/blob/112c90d68c0caab4373bba489a10b94ed56a79fb/media/darkcity.gif" />
 </p>
 
 <p align="center">
@@ -27,10 +27,15 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoYume&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoYume&theme=tokyonight" alt="mystreak"/>
-</p>
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://github.com/NoYume/NoYume/blob/112c90d68c0caab4373bba489a10b94ed56a79fb/media/penguin.gif" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=NoYume&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoYume&theme=tokyonight" alt="mystreak"/>
+    </td>
+  </tr>
+</table>
