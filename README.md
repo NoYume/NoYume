@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/NoYume/NoYume/blob/7228043acb190c9da0dfce0830c279c353eef136/media/penguin.gif" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&width=435&lines=hi+%F0%9F%91%8B;welcome+to+my+profile;check+out+some+of+my+projects...;star+and+follow+(if+you+want);thank+you!" />
 </p>
 
@@ -7,13 +11,6 @@
   <img alt="views" title="Views" src="https://komarev.com/ghpvc/?username=NoYume&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/NoYume?label=Stars&style=for-the-badge" alt="stars">
 </p>
-
-<div align="center">
-  
-# 💫 About Me:
-🔭 I’m currently working on the SBI User Portal<br><br>🌱 I’m currently learning how to program a full-stack AI Agent<br><br>⚡ Fun fact: I like penguins and drinking tea
-  
-</div>
 
 
 <div align="center">
