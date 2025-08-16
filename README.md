@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NoYume?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-  <img alt="views" title="Views" src="https://komarev.com/ghpvc/?username=NoYume&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/NoYume?label=Stars&style=for-the-badge" alt="stars">
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NoYume?color=236ad3&style=for-the-badge&logo=github&label=Follow" height="27"/>
+  <img alt="views" title="Views" src="https://komarev.com/ghpvc/?username=NoYume&style=for-the-badge" height="27"/>
+  <img src="https://img.shields.io/github/stars/NoYume?label=Stars&style=for-the-badge" height="27" alt="stars">
 </p>
 
 
